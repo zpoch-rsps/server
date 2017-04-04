@@ -85,5 +85,4 @@ def convert(_name, button, level, elements, experience, reward)
 end
 
 convert :bones_to_bananas, 1159, 15, { NATURE => 1, WATER => 2, EARTH => 2 }, 25, 1963
-convert :bones_to_peaches, 15877, 60, { NATURE => 2, WATER => 4, EARTH => 4 }, 35.5, 6883
 
