@@ -1,0 +1,17 @@
+.*
+
+!.gitignore
+!.rubocop.yml
+!.editorconfig
+!.travis.yml
+
+*~
+*.class
+*.iml
+
+/data/fs
+/data/rsa.pem
+/data/savedGames
+/lib/
+*/target/
+*/build/
